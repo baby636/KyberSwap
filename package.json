@@ -4,7 +4,7 @@
   "description": "Ethereum wallet developed by KyberNetwork team. It supports instant exchange between wide range of tokens.",
   "main": "webpack.config.js",
   "dependencies": {
-    "@ledgerhq/hw-app-eth": "^4.56.0",
+    "@ledgerhq/hw-app-eth": "^5.49.0",
     "@ledgerhq/hw-transport-u2f": "^4.56.0",
     "@walletconnect/browser": "^1.0.0-beta.38",
     "abi-decoder": "^2.2.2",
